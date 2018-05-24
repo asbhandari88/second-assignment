@@ -27,3 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Output 
+Output Image 1 :
+
+![Output Image 1](src/assets/second_ass_1.PNG "Output")
+
+
+Output Image 2 :
+
+![Output Image 2](src/assets/second_ass_2.PNG "Output")
